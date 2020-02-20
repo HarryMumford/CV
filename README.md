@@ -1,10 +1,16 @@
 ## Harry Mumford
 
-As a recent geology graduate 
-  
+Driven by my competitive nature, and passion for learning I am determined to achieve my goal of becoming a software developer. 
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ## Skills
+
+#### Problem Solving
+
+
+#### Communication
+#### Fast learning
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
