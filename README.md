@@ -1,7 +1,7 @@
 # Harry Mumford
 
 
-| [Skills](##Skills) | [Projects](##Projects) | [Education](##Education) | [Experience](##Experience) | [Interests](##Interests) | [Contact](##Contacts) |
+| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contacts) |
 
 Driven by my competitive nature, and passion for learning I am determined to achieve my goal of becoming a software developer. 
 
@@ -21,7 +21,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ***Problem Solving*** - Since I have started coding I have realised that I use a logical approach for almost everything in life. Whether it be playing a strategy board game, planning and engineering a drilling project in my previous job or attempting a difficult kata on codewars. 
 
-***Communication / Team Work*** 
+***Communication / Team Work*** - At University, in our first team project I was able to 
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
