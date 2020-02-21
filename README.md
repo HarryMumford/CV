@@ -17,7 +17,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-***Fast learning*** - I purposely chose a challenging final project to test my ability to pick up a learn a new tech-stack and solve a tough problem. In under 10 days I was able to get a firm understanding of Reacts client-side rendering and using Mongo db and Express to save state. My love of learning is also demonstrated by my large and varied amount of sports and hobbies including snooker, surfing, skimboarding, guitar, piano, slack-lining, photography, table tennis, bmxing, unicycling and football. 
+***Fast learning*** - I purposely chose a challenging final project to test my ability to pick up a learn a new tech-stack and solve a tough problem. In under 10 days I was able to get a firm understanding of Reacts client-side rendering and using Mongo db and Express to save state. My love of learning is also demonstrated by my ability to pick up a large amount of sports and hobbies including snooker, surfing, sailing, skimboarding, guitar, piano, slack-lining, photography, table tennis, bmxing and football. 
 
 ***Problem Solving*** - Since I have started coding I have realised that I use a logical approach for almost everything in life. Whether it be playing a strategy board game, planning and engineering a drilling project in my previous job or attempting a difficult kata on codewars. 
 
@@ -50,15 +50,11 @@ Highly selective and intensive 4-month software developer bootcamp
 - Geology, Maths, Physics
 - ABB
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Experience
 
 ***Cornwall Consultants*** (July, 2018 - Ocotober, 2019)  
-*Mining Consultant*  
-
+*Mining Consultant* 
+Working for a small company, I was thrown into a leadership role where I engineered and supervised numerous drilling and excavation projects. The key to a successful and efficient project was a strategic plan, involving technical diagramming and effective time management.
 
 ***Various summer jobs*** (2012 - 2017)   
 *Customer assistant, waiter, carer, cashier, cleaner and gardener*  
