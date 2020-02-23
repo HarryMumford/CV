@@ -3,9 +3,7 @@
 
 | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contacts) |
 
-Driven by my competitive nature, and passion for learning I am determined to achieve my goal of becoming a software developer. 
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+Driven by my competitive nature, and passion for learning I am determined to achieve my goal of becoming a software developer. After completing Makers Academy I feel confident in my ability to learn new technologies and I am eager to start building exciting projects. I get a great satisfaction from solving problems with a methodical approach.
 
 ## Projects
 
@@ -21,14 +19,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ***Problem Solving*** - Since I have started coding I have realised that I use a logical approach for almost everything in life. Whether it be playing a strategy board game, planning and engineering a drilling project in my previous job or attempting a difficult kata on codewars. 
 
-***Communication / Team Work*** - At University, in our first team project I was able to 
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+***Communication / Team Work*** - During our group projects at Makers Academy I helped ensure our teams communicated effectively by sticking to a structured agile environment. With effective communication we ensured the tasks were divided equally and appropriately to maximise efficiency. 
 
 ## Education
 
