@@ -5,10 +5,9 @@
 
 Driven by my competitive nature, and passion for learning I am determined to achieve my goal of becoming a software developer. After completing Makers Academy I feel confident in my ability to learn new technologies and I am eager to start building exciting projects. 
 
-In my previous job at a mining consultancy I would plan and engineer driling investigations that involved hiring drilling contractors and instructing them to drill underneath houses in search for abandoned mines. To fall within the tight profit margins, a strategic plan that maximised efficiency was key. This logical thinking aspect of the job is where I excelled
+In my previous job at a mining consultancy I would plan and engineer drilling investigations that involved hiring drilling contractors and instructing them to drill underneath houses in search for abandoned mines. To fall within the tight profit margins, a strategic plan that maximizes efficiency was key. This logical thinking aspect of the job was where I excelled and I started to crave a job with more problem solving… (not finished)
 
 
-I demonstrated a logical and methodical approach to solving problems in my previous when I planned and engineered numerous drilling and excavation jobs. 
 
 ## Projects
 
@@ -48,7 +47,7 @@ Highly selective and intensive 4-month software developer bootcamp
 
 ## Experience
 
-***Cornwall Consultants*** (July, 2018 - Ocotober, 2019)  
+***Cornwall Consultants*** (July, 2018 - October, 2019)  
 *Mining Consultant* 
 Working for a small company, I was thrown into a leadership role where I engineered and supervised numerous drilling and excavation projects. The key to a successful and efficient project was a strategic plan, involving technical diagramming and effective time management.
 
@@ -58,7 +57,7 @@ Working in several fast-paced retail environments has taught me to remain alert 
 
 ## Interests
 
-Sports: I have a great passion for surfing, and when the conditions permit, I will often travel to Cornwall or even Morroco to escape the big city and return refreshed, more mindful and motivated for work. I am a confident cyclist, especially keen on mountain biking and BMXing. Other sports include football (in teams for both 11 and 6 a side at University), skiing, and table tennis.
+Sports: I have a great passion for surfing, and when the conditions permit, I will often travel to Cornwall or even Morocco to escape the big city and return refreshed, more mindful and motivated for work. I am a confident cyclist, especially keen on mountain biking and BMXing. Other sports include football (in teams for both 11 and 6 a side at University), skiing, and table tennis.
 
 Hobbies: I have represented the University in Pool and Snooker tournaments and reached the
 semi-finals of internal competitions. I am a keen photographer with an interest in art and have
