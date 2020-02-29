@@ -21,7 +21,7 @@ In my previous job at a mining consultancy I would plan and engineer drilling in
 
 ***Fast learning*** - I purposely chose a challenging final project to test my ability to pick up a learn a new tech-stack and solve a tough problem. In under 10 days I was able to get a firm understanding of Reacts client-side rendering and using Mongo db and Express to save state. My love of learning is also demonstrated by my ability to pick up a large amount of sports and hobbies including snooker, surfing, sailing, skimboarding, guitar, piano, slack-lining, photography, table tennis, bmxing and football. 
 
-***Problem Solving*** - Since I have started coding I have realised that I use a logical approach for almost everything in life. Whether it be playing a strategy board game, planning and engineering a drilling project in my previous job or attempting a difficult kata on codewars. 
+***Problem Solving*** - Since I have started coding I have realised that I use a logical approach for almost everything in life. Whether it be playing a strategy board game, planning and engineering a drilling project in my previous job or attempting a difficult kata on codewars. University taught me to use the scientific approach to solving problems. The simple but powerful concept of stating a hypothesis, predicting the outcome then testing and analysing the result has been the core to my problem solving approach.
 
 ***Communication / Team Work*** - During our group projects at Makers Academy I helped ensure our teams communicated effectively by sticking to a structured agile environment. With effective communication we ensured the tasks were divided equally and appropriately to maximise efficiency. 
 
