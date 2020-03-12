@@ -57,12 +57,4 @@ Working in several fast-paced retail environments has taught me to remain alert 
 
 ## Interests
 
-Sports: I have a great passion for surfing, and when the conditions permit, I will often travel to Cornwall or even Morocco to escape the big city and return refreshed, more mindful and motivated for work. I am a confident cyclist, especially keen on mountain biking and BMXing. Other sports include football (in teams for both 11 and 6 a side at University), skiing, and table tennis.
-
-Hobbies: I have represented the University in Pool and Snooker tournaments and reached the
-semi-finals of internal competitions. I am a keen photographer with an interest in art and have
-enjoyed drawing and painting from a young age.
-
-Music: I am very passionate about guitar. Playing for 16 years, I practice on average half an hour
-a day. I have also played piano for 7 years and enjoy playing advanced classical pieces.
-Other interests: Travelling (South America for 4 months), film, literature and politics.
+I have a great passion for surfing, and when the conditions permit, I will often travel to Cornwall or even Morocco to escape the big city and return refreshed, more mindful and motivated for work. I am a confident cyclist, especially keen on mountain biking and BMXing. Other sports include football (in teams for both 11 and 6 a side at University), skiing, and table tennis. I have represented the University in Pool and Snooker tournaments and reached the semi-finals of internal competitions. I am a keen photographer and have enjoyed drawing and painting from a young age. I am very passionate about guitar. Playing for 17 years, I practice on average half an hour a day. I have also played piano for 8 years and enjoy playing advanced classical pieces. Travelling (South America for 4 months), film, literature and politics.
