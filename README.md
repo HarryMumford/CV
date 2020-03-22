@@ -1,7 +1,7 @@
 # Harry Mumford
 
 
-| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contacts) |
+| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) |
 
 Driven by my competitiveness, and passion for learning I am determined to achieve my goal of becoming a software developer. After completing Makers Academy I feel confident in my ability to learn new technologies and I am eager to start building exciting projects. 
 
