@@ -3,7 +3,7 @@
 
 | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) |
 
-Driven by my competitiveness, and passion for learning I am determined to achieve my goal of becoming a software developer. After completing Makers Academy I feel confident in my ability to learn new technologies and I am eager to start building exciting projects. 
+Driven by ambition, and my passion for learning I am determined to achieve my goal of becoming a software developer. After completing Makers Academy I feel confident in my ability to learn new technologies and I am eager to start building exciting projects. 
 
 In my previous job at a mining consultancy, I would plan and engineer drilling investigations that involved hiring drilling contractors and instructing them to drill underneath houses in search for abandoned mines. To fall within the tight profit margins, a strategic plan that maximizes efficiency was key. This logical thinking aspect of the job was where I excelled and I started to crave a job with more problem-solving.
 
