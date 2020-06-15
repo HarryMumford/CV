@@ -50,10 +50,12 @@ Highly selective and intensive 4-month software developer bootcamp
 
 ***Cornwall Consultants*** (July, 2018 - October, 2019)  
 *Mining Consultant* 
+
 Working for a small company, I was thrown into a leadership role where I engineered and supervised numerous drilling and excavation projects. The key to a successful and efficient project was a strategic plan, involving technical diagramming and effective time management.
 
 ***Various summer jobs*** (2012 - 2017)   
 *Customer assistant, waiter, carer, cashier, cleaner and gardener*
+
 Working in several fast-paced retail environments has taught me to remain alert and attentive during the busiest periods, coordinating with my peers, following instructions and working as a team. 
 
 ## Interests
