@@ -32,6 +32,7 @@ I am Full-stack developer passionate about gaining new skills, solving problems 
 ## Education
 
 ***Makers Academy*** (Nov. 2019 - Feb. 2020)
+
 *Highly selective and intensive 4-month software developer Bootcamp*
 
 - OOP, TDD, MVC, DDD
