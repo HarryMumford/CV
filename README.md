@@ -64,7 +64,7 @@ Highly selective and intensive 4-month software developer Bootcamp
 ***Various summer jobs*** (2012 - 2017)   
 *Customer assistant, waiter, carer, cashier, cleaner and gardener*
 
-Working in several fast-paced retail environments has taught me to remain alert and attentive during the busiest periods, coordinating with my peers, following instructions and working as a team. 
+* Working in several fast-paced retail environments has taught me to remain alert and attentive during the busiest periods, coordinating with my peers, following instructions and working as a team. 
 
 ## Interests
 
