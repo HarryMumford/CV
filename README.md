@@ -33,8 +33,6 @@ I am Full-stack developer passionate about gaining new skills, solving problems 
 
 ***Makers Academy*** (Nov. 2019 - Feb. 2020)
 
-*Highly selective and intensive 4-month software developer Bootcamp*
-
 - OOP, TDD, MVC, DDD
 - Agile/XP, pair programming
 - Ruby, Rails, JavaScript, React
@@ -45,7 +43,7 @@ I am Full-stack developer passionate about gaining new skills, solving problems 
 - Geology
 - Masters of Science Degree - 2.1
 
-***Truro College (Sept. 2011 - May. 2013)***
+***Truro College*** (Sept. 2011 - May. 2013)
 
 - Geology, Maths, Physics
 - ABB
