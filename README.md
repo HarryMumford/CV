@@ -22,11 +22,15 @@ In my previous job at a mining consultancy, I would plan and engineer drilling i
 
 ## Skills
 
-***Fast learning*** - I purposely chose a challenging final project to test my ability to pick up a learn a new tech-stack and solve a tough problem. In under 10 days, I was able to get a firm understanding of Reacts client-side rendering and using Mongo DB and Express to save state. My love of learning is also demonstrated by my ability to pick up a large number of sports and hobbies including snooker, surfing, sailing, skimboarding, guitar, piano, slack-lining, photography, table tennis, bmxing and football. 
+***Building client relationships*** - My professional experience as a Mining Consultant / Geotechnical Engineer has dramatically my ability to build client relationships. This role relied heavily on my ability to express complex technical concepts to customers, who often had very little knowledge about the services we offer or even mining as a whole.  Our services were often expensive and intrusive, involving excavation and drilling beneath properties. Sometimes the result of these investigations would come as a shock to the client. It was therefore vital that I discussed the details of the investigations in a professional manner and was able to answer any technical mining-related queries the customer had. Throughout my 30+ investigations, I received 100% positive feedback on my customer service. 
 
 ***Problem Solving*** - Since I have started coding I have realised that I use a logical approach for almost everything in life. Whether it be playing a strategy board game, planning and engineering a drilling project in my previous job or attempting a difficult kata on codewars. I have a keen eye for spotting improvements and introducing new techniques to increase the efficiency and quality of company processes. For example in my previous job technical diagrams were being produced in graphic design software while the geospatial analysis was performed on GIS software. I noticed this was problematic as any changes to the scale required time-consuming conversions to update the diagrams on the graphical software which also encouraged human error. Utilising graphical tools within QGIS I was able to streamline the diagram production process. I also realised there was scope for further improvement and with help from the developers I wrote some basic code to automate diagram production that required dependent scaling.
 
+***Fast learning*** - I purposely chose a challenging final project to test my ability to pick up a learn a new tech-stack and solve a tough problem. In under 10 days, I was able to get a firm understanding of Reacts client-side rendering and using Mongo DB and Express to save state. My love of learning is also demonstrated by my ability to pick up a large number of sports and hobbies including snooker, surfing, sailing, skimboarding, guitar, piano, slack-lining, photography, table tennis, bmxing and football. 
+
 ***Communication / Team Work*** - During our group projects at Makers Academy I helped ensure our teams communicated effectively by sticking to a structured agile environment. With effective communication, we ensured the tasks were divided equally and appropriately to maximise efficiency.  In my previous job, I got the opportunity to work in different areas of the company. Using my communication and people skills I was able to listen to my peers and adapt quickly to unfamiliar roles. I was then able to take the lead on geotechnical and land contamination projects despite being formally trained as a mining-consultant.
+
+***Science/engineering background*** I have a strong technical mindset. From secondary school to university I have always been drawn to science and maths. I found it much easier to revise for those subjects as solutions to equations were not subjective and did not require learning and retaining lots of information. For this reason, I chose the advanced maths modules in my geology degree and achieved highly in them. 
 
 ## Education
 
@@ -53,7 +57,12 @@ Highly selective and intensive 4-month software developer bootcamp
 ***Cornwall Consultants*** (July, 2018 - October, 2019)  
 *Mining Consultant* 
 
-Working for a small company, I was thrown into a leadership role where I engineered and supervised numerous drilling and excavation projects. The key to a successful and efficient project was a strategic plan, involving technical diagramming and effective time management.
+*Supervised and engineered numerous drilling and excavation projects through their full lifecycle.
+*Utilised GIS software to automate technical diagramming thus increasing efficiency and profit margins. 
+*Used strategic planning to ensure the client’s requirements were met in the shortest time possible.
+*Shadowed the company’s developers and learnt how they used python to interact with QGIS and PostgreSQL.
+*Passed on my valuable skills I gained from Makers Academy, offering advice on automated testing, TDD process and version control.
+
 
 ***Various summer jobs*** (2012 - 2017)   
 *Customer assistant, waiter, carer, cashier, cleaner and gardener*
