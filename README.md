@@ -54,11 +54,11 @@ Highly selective and intensive 4-month software developer bootcamp
 ***Cornwall Consultants*** (July, 2018 - October, 2019)  
 *Mining Consultant* 
 
-*Supervised and engineered numerous drilling and excavation projects through their full lifecycle.
-*Utilised GIS software to automate technical diagramming thus increasing efficiency and profit margins. 
-*Used strategic planning to ensure the client’s requirements were met in the shortest time possible.
-*Shadowed the company’s developers and learnt how they used python to interact with QGIS and PostgreSQL.
-*Passed on my valuable skills I gained from Makers Academy, offering advice on automated testing, TDD process and version control.
+* Supervised and engineered numerous drilling and excavation projects through their full lifecycle.
+* Utilised GIS software to automate technical diagramming thus increasing efficiency and profit margins. 
+* Used strategic planning to ensure the client’s requirements were met in the shortest time possible.
+* Shadowed the company’s developers and learnt how they used python to interact with QGIS and PostgreSQL.
+* Passed on my valuable skills I gained from Makers Academy, offering advice on automated testing, TDD process and version control.
 
 
 ***Various summer jobs*** (2012 - 2017)   
