@@ -22,10 +22,10 @@ I am Full-stack developer passionate about gaining new skills, solving problems 
 
 ## Technologies
 
-[![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryMumford&count_private=true&show_icons=true
-)]
+![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryMumford&count_private=true&show_icons=true
+)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMumford)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMumford)
 
 ## Skills
 
