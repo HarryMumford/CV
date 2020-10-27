@@ -39,9 +39,10 @@ I am Full-stack developer passionate about gaining new skills, solving problems 
 - RSpec, Jasmine, Jest - Enzyme
 
 ***University of Southampton*** (Oct. 2013 - Jul. 2017)
+Geology, Masters of Science Degree,2.1
 
-- Geology
-- Masters of Science Degree - 2.1
+***Relevant modules:*** Advanced Math Methods for Scientists, Seaﬂoor Exploration and Surveying, MSci Advanced Independent Research Project 
+***Relevant skills:*** Handling big data, data analysis, vector calculus, graphical and GIS software, plotting data with R 
 
 ***Truro College*** (Sept. 2011 - May. 2013)
 
