@@ -1,5 +1,9 @@
 # Harry Mumford
 
+![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryMumford&count_private=true&show_icons=true
+)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMumford&hide=javascript&layout=compact)
 
 | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) |
 
@@ -19,13 +23,6 @@ I am Full-stack developer passionate about gaining new skills, solving problems 
 | [Facade Brochure](https://github.com/EManifold/acebook-zuckermen) | 10 days | A fancy alternative to Facebook | Rails, Rspec, TravisCI, jQuery, Heroku |
 | [MERN authentification template](https://github.com/HarryMumford/mern-auth-boiler-plate)| Ongoing| Fullstack authentification template | MERN, React-redux, reactstrap, JWT web token, bcrypt, mocha, chai, supertest |
 | [Bank tech test](https://github.com/HarryMumford/bank-tech-test-rb)| Approx. 5 hours | A good example of SOLID principles and isolated unit tests. Demonstrates solving a problem under time pressure | Ruby, Rspec, Rubocop |
-
-## Technologies
-
-![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryMumford&count_private=true&show_icons=true
-)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMumford&layout=compact&?hide=Python)
 
 ## Skills
 
