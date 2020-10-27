@@ -3,7 +3,7 @@
 ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryMumford&count_private=true&show_icons=true
 )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMumford&hide=javascript&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMumford&hide=python&layout=compact)
 
 | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) |
 
