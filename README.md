@@ -1,7 +1,7 @@
  ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryMumford&count_private=true&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMumford&hide=python&layout=compact&langs_count=6)
 # Harry Mumford
 
-| [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) |
+| [Projects](#Projects) | [Skills](#Skills) | [Technology](#Technology) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) |
 
 I am Full-stack developer passionate about gaining new skills, solving problems and writing high-quality code for exciting projects. I have experience using Agile methodologies to meet requirements effectively and efficiently. 
 
