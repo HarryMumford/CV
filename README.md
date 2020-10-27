@@ -1,12 +1,5 @@
-# Harry Mumford
-
-
-
  ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=HarryMumford&count_private=true&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMumford&hide=python&layout=compact&langs_count=6)
-
-
-
-
+# Harry Mumford
 
 | [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) |
 
@@ -14,9 +7,6 @@ I am Full-stack developer passionate about gaining new skills, solving problems 
 
 
 ## Projects
-
-
-# Projects
 
 |Project name | Build time | Description | Technologies used |
 |:---|:---|:---|:---|
